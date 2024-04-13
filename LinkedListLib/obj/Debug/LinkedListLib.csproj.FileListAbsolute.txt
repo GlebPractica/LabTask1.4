@@ -1,0 +1,6 @@
+D:\Pairs\KPJP_Practica\Work_1.4\LinkedListLib\bin\Debug\LinkedListLib.dll
+D:\Pairs\KPJP_Practica\Work_1.4\LinkedListLib\bin\Debug\LinkedListLib.pdb
+D:\Pairs\KPJP_Practica\Work_1.4\LinkedListLib\obj\Debug\LinkedListLib.csproj.AssemblyReference.cache
+D:\Pairs\KPJP_Practica\Work_1.4\LinkedListLib\obj\Debug\LinkedListLib.csproj.CoreCompileInputs.cache
+D:\Pairs\KPJP_Practica\Work_1.4\LinkedListLib\obj\Debug\LinkedListLib.dll
+D:\Pairs\KPJP_Practica\Work_1.4\LinkedListLib\obj\Debug\LinkedListLib.pdb

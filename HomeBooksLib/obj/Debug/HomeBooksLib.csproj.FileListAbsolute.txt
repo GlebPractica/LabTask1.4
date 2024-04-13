@@ -1,0 +1,6 @@
+D:\Pairs\KPJP_Practica\Work_1.4\HomeBooksLib\bin\Debug\HomeBooksLib.dll
+D:\Pairs\KPJP_Practica\Work_1.4\HomeBooksLib\bin\Debug\HomeBooksLib.pdb
+D:\Pairs\KPJP_Practica\Work_1.4\HomeBooksLib\obj\Debug\HomeBooksLib.csproj.AssemblyReference.cache
+D:\Pairs\KPJP_Practica\Work_1.4\HomeBooksLib\obj\Debug\HomeBooksLib.csproj.CoreCompileInputs.cache
+D:\Pairs\KPJP_Practica\Work_1.4\HomeBooksLib\obj\Debug\HomeBooksLib.dll
+D:\Pairs\KPJP_Practica\Work_1.4\HomeBooksLib\obj\Debug\HomeBooksLib.pdb
